@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: 11/10/2008-18:04:59
+#
+$CMP DIAC
+D Diac
+$ENDCMP
+#
+$CMP THYRISTOR
+D Thyristor
+$ENDCMP
+#
+$CMP TRIAC
+D Triac
+$ENDCMP
+#
+#End Doc Library

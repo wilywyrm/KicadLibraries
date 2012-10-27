@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: 1/10/2008-08:54:30
+#
+$CMP 6L6
+D Beam Power Tetrode Octal Base
+$ENDCMP
+#
+$CMP ECC83
+D Twin Triode Noval Base
+$ENDCMP
+#
+$CMP EF86
+D Small Signal Pentode Noval Base
+$ENDCMP
+#
+$CMP EL34
+D Power Pentode Octal Base
+$ENDCMP
+#
+$CMP EL84
+D Power Pentode Noval Base
+$ENDCMP
+#
+$CMP EZ81
+D Double Anode Rectifying Tube Noval Base
+$ENDCMP
+#
+$CMP GZ34
+D Double Anode Rectifying Tube Octal Base
+$ENDCMP
+#
+#End Doc Library

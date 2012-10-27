@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 13 Nov 2011 03:54:21 PM CST
+#
+$CMP PHOTORESISTOR
+D Photoresistor
+$ENDCMP
+#
+$CMP POT_DUAL
+D Potentiomètre
+$ENDCMP
+#
+$CMP POT_QUAD
+D Potentiomètre
+$ENDCMP
+#
+$CMP POT_TRIPLE
+D Potentiomètre
+$ENDCMP
+#
+#End Doc Library

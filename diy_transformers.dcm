@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0  Date: 11/3/2009-12:23:34
+#
+$CMP 42TC_A
+D Xicon 42TC Series Transformer
+$ENDCMP
+#
+$CMP 42TC_B
+D Xicon 42TC Series Transformer
+$ENDCMP
+#
+$CMP 42TL
+D Xicon 42TL Series Transformer
+$ENDCMP
+#
+$CMP 42TM_A
+D Xicon 42TM Series Transformer
+$ENDCMP
+#
+$CMP 42TM_B
+D Xicon 42TM Series Transformer
+$ENDCMP
+#
+#End Doc Library

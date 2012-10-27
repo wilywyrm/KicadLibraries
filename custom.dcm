@@ -1,0 +1,65 @@
+EESchema-DOCLIB  Version 2.0  Date: Wed 10 Oct 2012 09:39:37 PM CDT
+#
+$CMP LM555
+D Micropower DC/DC Conv. w/current limit (8 pins SO)
+K REGUL POWER
+$ENDCMP
+#
+$CMP LP3855
+D Linear Regulator (adjustable)
+K POWER REGUL
+F regulator/lm117.pdf
+$ENDCMP
+#
+$CMP LT1129_SO8
+D LowDrop Linear Regulator (8 pins SOJ)
+K REGUL POWER
+F linear-tec/lt1129.pdf
+$ENDCMP
+#
+$CMP LT1316
+D Micropower DC/DC Conv. w/current limit (8 pins SO)
+K REGUL POWER
+$ENDCMP
+#
+$CMP LT1370
+D 6A Switching Regulator
+K REGUL POWER
+F linear-tec/lt1370.pdf
+$ENDCMP
+#
+$CMP LT1376_SO8
+D LowDrop Linear Regulator (8 pins SOJ)
+K REGUL POWER
+F linear-tec/lt1129.pdf
+$ENDCMP
+#
+$CMP MAX1879
+D Li-ion Battery Pulse Charger
+K CHARGER BATTERY POWER
+F maxim-ic/max1879.pdf
+$ENDCMP
+#
+$CMP PHOTO_R
+D Photoresistor
+$ENDCMP
+#
+$CMP REG
+D Linear Regulator (adjustable)
+K POWER REGUL
+F regulator/lm117.pdf
+$ENDCMP
+#
+$CMP TL1963A
+D Linear Regulator (adjustable)
+K POWER REGUL
+F regulator/lm117.pdf
+$ENDCMP
+#
+$CMP TL1963ADCQ
+D Linear Regulator (adjustable)
+K POWER REGUL
+F regulator/lm117.pdf
+$ENDCMP
+#
+#End Doc Library

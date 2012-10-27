@@ -1,0 +1,260 @@
+==============================================================================
+
+DPAK: unit    = mm        Dimensions unit
+DPAK: smdpads = DPAK      Land pattern (SMD Pads)
+DPAK: silk    = DPAK      Component outline (silkscreen)
+DPAK: body    = DPAK      Component 3D shape (body)
+DPAK: pins    = DPAK      Component 3D shape (pins)
+DPAK: dims    = XOUTER    Component size and T0+T1 text placement algorithm
+DPAK: A       =  6.7      TBW
+DPAK: B       =  6.7      TBW
+DPAK: C       =  6.5      TBW
+DPAK: E       =  0.9      TBW
+DPAK: F       =  1        TBW
+DPAK: G       =  0.8      TBW
+DPAK: H       =  2.4      TBW
+DPAK: L       =  7.3      TBW
+DPAK: P       =  2.6      TBW
+DPAK: Q       =  1.2      TBW
+DPAK: T       =  1.1      TBW
+DPAK: W       =  6.6      TBW
+DPAK: Y       =  3        TBW
+DPAK: LS      =  7.6048   TBW
+DPAK: WS      =  0.3048   TBW
+DPAK: a       = 10        TBW
+DPAK: alt     = DPAK      Package shape
+DPAK: b2      =  5.4      TBW
+DPAK: b3      =  4.8      TBW
+DPAK: b4      =  4.3      TBW
+DPAK: c       =  0.5      Leg depth
+DPAK: h       =  1.25     Pin height
+DPAK: l3      =  5.2      TBW
+DPAK: q       = 30        TBW
+DPAK: s       =  0.2      Package seating height
+DPAK: t       =  1        TBW
+
+------+---+-----+-----+-----+------+
+DPAK  | N |  X  |  b  |  b1 |   e  |
+------+---+-----+-----+-----+------+
+DPAK  | 3 | 1.5 | 0.9 | 1.1 | 2.30 |
+DPAK5 | 5 | 0.8 | 0.6 | 0.9 | 1.14 |
+------+---+-----+-----+-----+------+
+DPAK: N  = TBW
+DPAK: X  = TBW
+DPAK: b  = Leg width
+DPAK: b1 = TBW
+DPAK: e  = Pin pitch
+
+==============================================================================
+
+D2PAK: unit    = mm        Dimensions unit
+D2PAK: smdpads = DPAK      Land pattern (SMD Pads)
+D2PAK: silk    = DPAK      Component outline (silkscreen)
+D2PAK: body    = DPAK      Component 3D shape (body)
+D2PAK: pins    = DPAK      Component 3D shape (pins)
+D2PAK: dims    = XOUTER    Component size and T0+T1 text placement algorithm
+D2PAK: A       =  9.5      TBW
+D2PAK: B       = 10.8      TBW
+D2PAK: C       = 10        TBW
+D2PAK: E       =  1.6      TBW
+D2PAK: F       =  2.5      TBW
+D2PAK: G       =  1.2      TBW
+D2PAK: H       =  4.8      TBW
+D2PAK: L       = 10.6      TBW
+D2PAK: P       =  5        TBW
+D2PAK: Q       =  1.9      TBW
+D2PAK: T       =  1.6      TBW
+D2PAK: W       = 10.6      TBW
+D2PAK: Y       =  3.8      TBW
+D2PAK: LS      = 10.9048   TBW
+D2PAK: WS      =  0.3048   TBW
+D2PAK: a       = 10        TBW
+D2PAK: alt     = D2PAK     Package shape
+D2PAK: b2      = 10.6      TBW
+D2PAK: b3      =  8.9      TBW
+D2PAK: b4      =  6.8      TBW
+D2PAK: c       =  0.55     Leg depth
+D2PAK: h       =  2.5      Pin height
+D2PAK: l3      =  7.9      TBW
+D2PAK: q       = 20        TBW
+D2PAK: s       =  0.2      Package seating height
+D2PAK: t       =  1.5      TBW
+
+-------+---+-----+-----+-----+------+
+D2PAK  | N |  X  |  b  |  b1 |   e  |
+-------+---+-----+-----+-----+------+
+D2PAK  | 3 | 2.0 | 0.9 | 1.3 | 2.54 |
+D2PAK5 | 5 | 1.0 | 0.9 | 1.3 | 1.70 |
+D2PAK7 | 7 | 0.9 | 0.7 | 1.0 | 1.27 |
+-------+---+-----+-----+-----+------+
+D2PAK: N  = TBW
+D2PAK: X  = TBW
+D2PAK: b  = Leg width
+D2PAK: b1 = TBW
+D2PAK: e  = Pin pitch
+
+==============================================================================
+
+D3PAK: unit    = mm        Dimensions unit
+D3PAK: smdpads = DPAK      Land pattern (SMD Pads)
+D3PAK: silk    = DPAK      Component outline (silkscreen)
+D3PAK: body    = DPAK      Component 3D shape (body)
+D3PAK: pins    = DPAK      Component 3D shape (pins)
+D3PAK: dims    = XOUTER    Component size and T0+T1 text placement algorithm
+D3PAK: A       = 14        TBW
+D3PAK: B       = 16.2      TBW
+D3PAK: C       = 12        TBW
+D3PAK: E       =  1.6      TBW
+D3PAK: F       =  2        TBW
+D3PAK: G       =  1        TBW
+D3PAK: H       =  5        TBW
+D3PAK: L       = 15        TBW
+D3PAK: N       =  3        TBW
+D3PAK: P       =  4        TBW
+D3PAK: Q       =  1        TBW
+D3PAK: T       =  1.1      TBW
+D3PAK: W       = 16        TBW
+D3PAK: X       =  1.6      TBW
+D3PAK: Y       =  3.6      TBW
+D3PAK: LS      = 15.3048   TBW
+D3PAK: WS      =  0.3048   TBW
+D3PAK: a       = 10        TBW
+D3PAK: alt     = D3PAK     Package shape
+D3PAK: b       =  1.3      Leg width
+D3PAK: b1      =  1.3      TBW
+D3PAK: b2      = 16        TBW
+D3PAK: b3      = 13.6      TBW
+D3PAK: b4      =  1        TBW
+D3PAK: c       =  0.6      Leg depth
+D3PAK: e       =  5.46     Pin pitch
+D3PAK: h       =  2.5      Pin height
+D3PAK: l3      = 12.7      TBW
+D3PAK: q       = 45        TBW
+D3PAK: s       =  0.2      Package seating height
+D3PAK: t       =  1.3      TBW
+
+------+
+D3PAK |
+------+
+D3PAK |
+------+
+
+==============================================================================
+
+SOTG: unit    = mm      Dimensions unit
+SOTG: smdpads = DIL     Land pattern (SMD Pads)
+SOTG: silk    = RECTM   Component outline (silkscreen)
+SOTG: body    = XBOX    Component 3D shape (body)
+SOTG: pins    = XGULL   Component 3D shape (pins)
+SOTG: dims    = INOUT   Component size and T0+T1 text placement algorithm
+SOTG: alt     = SOTG    Package shape
+SOTG: s       =   0.2   Package seating height
+
+--------+------+------+------+-----------+---+------+------+-----+------+-----+--------+--------+------+------+------+
+SOTG    |   F  |   H  |   L  |     M     | N |   S  |   W  |  X  |   Y  |  Z  |   LS   |   WS   |   b  |   c  |   e  |
+--------+------+------+------+-----------+---+------+------+-----+------+-----+--------+--------+------+------+------+
+SOT23-3 | 0.45 | 1.00 | 2.90 | 1,3,5     | 6 | 2.80 | 1.60 | 0.6 | 0.90 | 3.6 | 3.2048 | 3.9048 | 0.40 | 0.20 | 0.95 |
+SOT23-5 | 0.45 | 1.00 | 2.90 | 1,2,3,4,6 | 6 | 2.80 | 1.60 | 0.6 | 0.90 | 3.6 | 3.2048 | 3.9048 | 0.40 | 0.20 | 0.95 |
+SOT23-6 | 0.45 | 1.00 | 2.90 |           | 6 | 2.80 | 1.60 | 0.6 | 0.90 | 3.6 | 3.2048 | 3.9048 | 0.40 | 0.20 | 0.95 |
+SOT23-8 | 0.45 | 1.00 | 2.90 |           | 8 | 2.80 | 1.60 | 0.5 | 0.90 | 3.6 | 3.2048 | 3.9048 | 0.30 | 0.20 | 0.65 |
+SOT25   | 0.40 | 1.10 | 3.00 | 1,3,4,5,6 | 6 | 2.80 | 1.60 | 0.6 | 0.90 | 3.6 | 3.3048 | 3.9048 | 0.38 | 0.15 | 0.95 |
+SOT26   | 0.40 | 1.10 | 3.00 |           | 6 | 2.80 | 1.60 | 0.6 | 0.90 | 3.6 | 3.3048 | 3.9048 | 0.38 | 0.15 | 0.95 |
+SOT143  | 0.50 | 0.90 | 2.90 |           | 4 | 2.35 | 1.30 | 1.0 | 1.44 | 3.6 | 3.2048 | 3.9048 | 0.50 | 0.20 | 1.90 |
+SOT223  | 1.00 | 1.60 | 6.50 | 1,2,3,5   | 6 | 7.00 | 3.50 | 1.0 | 1.50 | 7.8 | 6.8048 | 8.1048 | 0.70 | 0.25 | 2.30 |
+SOT323  | 0.30 | 1.00 | 2.15 | 1,3,5     | 6 | 2.10 | 1.30 | 0.6 | 0.90 | 2.9 | 2.4548 | 3.2048 | 0.30 | 0.12 | 0.65 |
+SOT353  | 0.35 | 1.00 | 2.00 | 1,3,4,5,6 | 6 | 2.10 | 1.25 | 0.4 | 0.70 | 2.9 | 2.3048 | 3.2048 | 0.20 | 0.15 | 0.65 |
+SOT363  | 0.35 | 1.00 | 2.00 |           | 6 | 2.10 | 1.25 | 0.4 | 0.70 | 2.9 | 2.3048 | 3.2048 | 0.20 | 0.15 | 0.65 |
+SOT416  | 0.30 | 0.80 | 1.60 | 1,3,5     | 6 | 1.60 | 0.80 | 0.4 | 0.70 | 2.4 | 1.9048 | 2.7048 | 0.25 | 0.20 | 0.50 |
+SOT523  | 0.22 | 0.75 | 1.60 | 1,3,5     | 6 | 1.60 | 0.80 | 0.4 | 0.70 | 2.4 | 1.9048 | 2.7048 | 0.22 | 0.12 | 0.50 |
+--------+------+------+------+-----------+---+------+------+-----+------+-----+--------+--------+------+------+------+
+SOTG: F  = TBW
+SOTG: H  = TBW
+SOTG: L  = TBW
+SOTG: M  = TBW
+SOTG: N  = TBW
+SOTG: S  = TBW
+SOTG: W  = TBW
+SOTG: X  = TBW
+SOTG: Y  = TBW
+SOTG: Z  = TBW
+SOTG: LS = TBW
+SOTG: WS = TBW
+SOTG: b  = Leg width
+SOTG: c  = Leg depth
+SOTG: e  = Pin pitch
+
+==============================================================================
+
+SOTF: unit = mm      Dimensions unit
+SOTF: silk = RECTM   Component outline (silkscreen)
+SOTF: body = TBOX    Component 3D shape (body)
+SOTF: dims = INOUT   Component size and T0+T1 text placement algorithm
+SOTF: alt  = SOTF    Package shape
+SOTF: s    =  0.05   Package seating height
+
+--------+---------+-------+------+-----+-----+-----------+---+------+-----+------+------+-----+--------+--------+------+------+-----+------+------+-----+
+SOTF    | smdpads |  pins |   F  |  H  |  L  |     M     | N |   S  |  W  |   X  |   Y  |  Z  |   LS   |   WS   |   b  |  b1  |  b2 |  b3  |   c  |  e  |
+--------+---------+-------+------+-----+-----+-----------+---+------+-----+------+------+-----+--------+--------+------+------+-----+------+------+-----+
+SOT553  |  DIL    | CUBE  | 0.30 | 0.6 | 1.6 | 1,3,4,5,6 | 6 | 1.60 | 1.2 | 0.40 | 0.70 | 2.0 | 1.9048 | 2.3048 | 0.20 |      |     |      | 0.15 | 0.5 |
+SOT563  |  DIL    | CUBE  | 0.30 | 0.6 | 1.6 |           | 6 | 1.60 | 1.2 | 0.40 | 0.70 | 2.0 | 1.9048 | 2.3048 | 0.20 |      |     |      | 0.11 | 0.5 |
+SOT666  |  DIL    | CUBE  | 0.30 | 0.6 | 1.6 |           | 6 | 1.60 | 1.2 | 0.40 | 0.70 | 2.0 | 1.9048 | 2.3048 | 0.20 |      |     |      | 0.11 | 0.5 |
+SOT723  |  DIL    | CUBE  | 0.29 | 0.5 | 1.2 | 1,3,5     | 6 | 1.20 | 0.8 | 0.27 | 0.52 | 1.5 | 1.5048 | 1.8048 | 0.21 |      |     |      | 0.12 | 0.4 |
+SOT89-3 |  SOT89  | SOT89 | 1.30 | 1.5 | 4.5 |           | 3 | 4.10 | 2.5 | 1.00 | 1.50 | 4.5 | 4.8048 | 4.8048 | 0.40 | 0.50 | 1.1 | 1.70 | 0.40 | 1.5 |
+SOT89-5 |  SOT89  | SOT89 | 1.30 | 1.5 | 4.5 |           | 5 | 4.35 | 2.5 | 0.70 | 1.50 | 5.2 | 4.8048 | 5.5048 | 0.42 | 0.54 | 1.6 | 0.42 | 0.40 | 1.5 |
+--------+---------+-------+------+-----+-----+-----------+---+------+-----+------+------+-----+--------+--------+------+------+-----+------+------+-----+
+SOTF: smdpads = Land pattern (SMD Pads)
+SOTF: pins    = Component 3D shape (pins)
+SOTF: F       = TBW
+SOTF: H       = TBW
+SOTF: L       = TBW
+SOTF: M       = TBW
+SOTF: N       = TBW
+SOTF: S       = TBW
+SOTF: W       = TBW
+SOTF: X       = TBW
+SOTF: Y       = TBW
+SOTF: Z       = TBW
+SOTF: LS      = TBW
+SOTF: WS      = TBW
+SOTF: b       = Leg width
+SOTF: b1      = TBW
+SOTF: b2      = TBW
+SOTF: b3      = TBW
+SOTF: c       = Leg depth
+SOTF: e       = Pin pitch
+
+==============================================================================
+
+TSOT: unit    = mm          Dimensions unit
+TSOT: smdpads = DIL         Land pattern (SMD Pads)
+TSOT: silk    = RECTM       Component outline (silkscreen)
+TSOT: body    = XBOX        Component 3D shape (body)
+TSOT: pins    = GULL        Component 3D shape (pins)
+TSOT: dims    = INOUT       Component size and T0+T1 text placement algorithm
+TSOT: F       =    0.4      TBW
+TSOT: H       =    1        TBW
+TSOT: L       =    2.9      TBW
+TSOT: M       = 1,2,3,4,6   TBW
+TSOT: S       =    2.8      TBW
+TSOT: W       =    1.6      TBW
+TSOT: Y       =    1        TBW
+TSOT: Z       =    3.6      TBW
+TSOT: LS      =    3.2048   TBW
+TSOT: WS      =    3.9048   TBW
+TSOT: alt     = TSOT        Package shape
+TSOT: c       =    0.2      Leg depth
+TSOT: s       =    0.2      Package seating height
+
+------+---+-----+------+------+
+TSOT  | N |  X  |   b  |   e  |
+------+---+-----+------+------+
+TSOT5 | 6 | 0.6 | 0.38 | 0.95 |
+TSOT6 | 6 | 0.6 | 0.38 | 0.95 |
+TSOT8 | 8 | 0.5 | 0.29 | 0.65 |
+------+---+-----+------+------+
+TSOT: N = TBW
+TSOT: X = TBW
+TSOT: b = Leg width
+TSOT: e = Pin pitch
+
+==============================================================================

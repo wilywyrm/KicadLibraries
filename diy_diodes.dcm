@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0  Date: 11/10/2008-18:06:16
+#
+$CMP 1N34A
+D 1N34A Germanium Diode
+$ENDCMP
+#
+$CMP 1N400X
+D 1N400X Rectifier Diode
+$ENDCMP
+#
+$CMP 1N4148
+D 1N4148 Diode
+$ENDCMP
+#
+$CMP 1N47XX
+D 1N47XX Zener Diode DO41
+$ENDCMP
+#
+$CMP 1N9XX
+D 1N9XX Zener Diode DO35
+$ENDCMP
+#
+$CMP DIODE
+D Diode
+$ENDCMP
+#
+$CMP DIODE_BRIDGE
+D Diode Bridge
+$ENDCMP
+#
+$CMP DIODE_SCHOTTKY
+D Schottky Diode
+$ENDCMP
+#
+$CMP DIODE_ZENER
+D Zener Diode
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+$CMP LED_DOUBLE
+D LED DOUBLE
+$ENDCMP
+#
+$CMP PHOTODIODE
+D Photodiode
+$ENDCMP
+#
+#End Doc Library

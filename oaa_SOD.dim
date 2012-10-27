@@ -1,0 +1,129 @@
+==============================================================================
+
+SODG: unit    = mm      Dimensions unit
+SODG: smdpads = DUAL    Land pattern (SMD Pads)
+SODG: silk    = RECTD   Component outline (silkscreen)
+SODG: body    = XBOX    Component 3D shape (body)
+SODG: pins    = GULL    Component 3D shape (pins)
+SODG: dims    = INOUT   Component size and T0+T1 text placement algorithm
+SODG: F       =   0.3   TBW
+SODG: H       =   1.1   TBW
+SODG: alt     = SODG    TBW
+
+-------+-----+--------+-----+-----+------+--------+------+------+------+------+------+-----+
+SODG   |  L  |   LS   |  N  |  S  |   W  |   WS   |   X  |   Y  |   Z  |   b  |   c  |  s  |
+-------+-----+--------+-----+-----+------+--------+------+------+------+------+------+-----+
+SOD123 | 2.7 | 4.5048 | 123 | 3.8 | 1.60 | 1.9048 | 2.00 | 0.90 | 4.20 | 0.70 | 0.15 | 0.2 |
+SOD323 | 1.7 | 3.1648 | 323 | 2.5 | 1.25 | 1.5548 | 0.83 | 0.63 | 2.86 | 0.35 | 0.13 | 0.1 |
+-------+-----+--------+-----+-----+------+--------+------+------+------+------+------+-----+
+SODG: L  = TBW
+SODG: LS = TBW
+SODG: N  = TBW
+SODG: S  = TBW
+SODG: W  = TBW
+SODG: WS = TBW
+SODG: X  = TBW
+SODG: Y  = TBW
+SODG: Z  = TBW
+SODG: b  = TBW
+SODG: c  = TBW
+SODG: s  = TBW
+
+==============================================================================
+
+SODF: unit    = mm      Dimensions unit
+SODF: smdpads = DUAL    Land pattern (SMD Pads)
+SODF: silk    = RECTD   Component outline (silkscreen)
+SODF: body    = TBOX    Component 3D shape (body)
+SODF: pins    = CUBE    Component 3D shape (pins)
+SODF: dims    = INOUT   Component size and T0+T1 text placement algorithm
+SODF: a       =  5      TBW
+SODF: alt     = SODF    TBW
+SODF: s       =  0.05   TBW
+
+--------+-----+-----+-----+--------+-----+-----+-----+--------+------+------+-----+------+------+
+SODF    |  F  |  H  |  L  |   LS   |  N  |  S  |  W  |   WS   |   X  |   Y  |  Z  |   b  |   c  |
+--------+-----+-----+-----+--------+-----+-----+-----+--------+------+------+-----+------+------+
+SOD123F | 0.7 | 1.1 | 2.7 | 4.5048 | 123 | 3.8 | 1.6 | 1.9048 | 1.80 | 1.34 | 4.2 | 0.60 | 0.13 |
+SOD523  | 0.4 | 0.8 | 1.2 | 2.3048 | 523 | 1.6 | 0.9 | 1.2048 | 0.75 | 0.80 | 2.0 | 0.25 | 0.15 |
+--------+-----+-----+-----+--------+-----+-----+-----+--------+------+------+-----+------+------+
+SODF: F  = TBW
+SODF: H  = TBW
+SODF: L  = TBW
+SODF: LS = TBW
+SODF: N  = TBW
+SODF: S  = TBW
+SODF: W  = TBW
+SODF: WS = TBW
+SODF: X  = TBW
+SODF: Y  = TBW
+SODF: Z  = TBW
+SODF: b  = TBW
+SODF: c  = TBW
+
+==============================================================================
+
+SODJ: unit    = mm      Dimensions unit
+SODJ: smdpads = DUAL    Land pattern (SMD Pads)
+SODJ: silk    = RECTD   Component outline (silkscreen)
+SODJ: body    = XBOX    Component 3D shape (body)
+SODJ: pins    = JLEAD   Component 3D shape (pins)
+SODJ: dims    = INOUT   Component size and T0+T1 text placement algorithm
+SODJ: F       =  1.5    TBW
+SODJ: a       =  5      TBW
+SODJ: alt     = SODJ    TBW
+SODJ: c       =  0.25   TBW
+SODJ: s       =  0.3    TBW
+
+-----+-----+-----+---------+-----+-----+--------+-----+------+------+-----+
+SODJ |  H  |  L  |    LS   |  S  |  W  |   WS   |  X  |   Y  |   Z  |  b  |
+-----+-----+-----+---------+-----+-----+--------+-----+------+------+-----+
+SMAJ | 2.1 | 4.5 |  7.2548 | 5.5 | 2.9 | 3.2048 | 2.0 | 2.65 | 6.95 | 1.6 |
+SMBJ | 2.4 | 4.5 |  7.5048 | 5.5 | 3.9 | 4.2048 | 2.2 | 2.50 | 7.20 | 2.2 |
+SMCJ | 2.4 | 7.1 | 10.1048 | 8.1 | 6.2 | 6.5048 | 3.2 | 2.60 | 9.80 | 3.1 |
+-----+-----+-----+---------+-----+-----+--------+-----+------+------+-----+
+SODJ: H  = TBW
+SODJ: L  = TBW
+SODJ: LS = TBW
+SODJ: S  = TBW
+SODJ: W  = TBW
+SODJ: WS = TBW
+SODJ: X  = TBW
+SODJ: Y  = TBW
+SODJ: Z  = TBW
+SODJ: b  = TBW
+
+==============================================================================
+
+DFS: unit    = mm       Dimensions unit
+DFS: smdpads = DIL      Land pattern (SMD Pads)
+DFS: silk    = DIL      Component outline (silkscreen)
+DFS: body    = DIL      Component 3D shape (body)
+DFS: pins    = GULL     Component 3D shape (pins)
+DFS: dims    = OUTER    Component size and T0+T1 text placement algorithm
+DFS: F       = 0.7      TBW
+DFS: H       = 2.5      TBW
+DFS: L       = 4.8      TBW
+DFS: LS      = 7.2048   TBW
+DFS: N       = 4        TBW
+DFS: S       = 6.6      TBW
+DFS: W       = 3.9      TBW
+DFS: WS      = 4.2048   TBW
+DFS: X       = 0.6      TBW
+DFS: Y       = 0.76     TBW
+DFS: Z       = 6.9      TBW
+DFS: a       = 5        TBW
+DFS: alt     = DFS      TBW
+DFS: b       = 0.7      TBW
+DFS: c       = 0.3      TBW
+DFS: s       = 0.15     TBW
+DFS: e       = 2.54     Pin pitch
+DFS: t       = 0        TBW
+
+-------+
+DFS    |
+-------+
+BR-DFS |
+-------+
+
+==============================================================================

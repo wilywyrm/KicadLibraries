@@ -1,0 +1,127 @@
+EESchema-DOCLIB  Version 2.0  Date: 11/10/2008-18:49:43
+#
+$CMP 2N2222
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2N2369
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2N3819
+D N Channel Jfet
+$ENDCMP
+#
+$CMP 2N3904
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2N3906
+D PNP Transistor
+$ENDCMP
+#
+$CMP 2N5087
+D PNP Transistor
+$ENDCMP
+#
+$CMP 2N5088
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2N5089
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2N5114
+D P Channel Jfet
+$ENDCMP
+#
+$CMP 2N5457
+D N Channel Jfet
+$ENDCMP
+#
+$CMP 2SC828
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2SC945
+D NPN Transistor
+$ENDCMP
+#
+$CMP 2SK30A
+D N Channel Jfet
+$ENDCMP
+#
+$CMP AC128
+D Germanium PNP Transistor
+$ENDCMP
+#
+$CMP BC109
+D NPN Transistor
+$ENDCMP
+#
+$CMP BC549
+D NPN Transistor
+$ENDCMP
+#
+$CMP BF245
+D N Channel Jfet
+$ENDCMP
+#
+$CMP BS170
+D N Channel Mosfet
+$ENDCMP
+#
+$CMP BS250
+D P Channel Mosfet
+$ENDCMP
+#
+$CMP FET_N
+D N Channel Jfet
+$ENDCMP
+#
+$CMP FET_P
+D P Channel Jfet
+$ENDCMP
+#
+$CMP J201
+D N Channel Jfet
+$ENDCMP
+#
+$CMP MOS_N
+D N Channel Mosfet
+$ENDCMP
+#
+$CMP MOS_P
+D P Channel Mosfet
+$ENDCMP
+#
+$CMP MOSFET_N
+D N Channel Mosfet
+$ENDCMP
+#
+$CMP MOSFET_P
+D P Channel Mosfet
+$ENDCMP
+#
+$CMP MPSA18
+D NPN Transistor
+$ENDCMP
+#
+$CMP NKT275
+D Germanium PNP Transistor
+$ENDCMP
+#
+$CMP NPN
+D NPN Transistor
+$ENDCMP
+#
+$CMP PHOTOTRANSISTOR
+D NPN Phototransistor
+$ENDCMP
+#
+$CMP PNP
+D PNP Transistor
+$ENDCMP
+#
+#End Doc Library
